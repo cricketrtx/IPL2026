@@ -1,6 +1,6 @@
 #EXTM3U
-# Title: BADMINTON
-# Updated: 2026-05-29 12:22:07
+# Title: PV SINDHU VS AN SE YOUNG QF
+# Updated: 2026-05-29 12:23:10
 
 #EXTINF:-1 tvg-name="TATA IPL TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8763/1739203338763-a.jpg" group-title="JHS CHANNELS", TATA IPL TV
 https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1780123610~acl=%2f*~id=d3dc940cffdcf2e01d7afa9ab81b18d9~data=hdntl~hmac=464b3e2726d079d5639e306935a19cb29a4c5b5cc187c3b0308d4fff47300863
@@ -37,3 +37,6 @@ https://abc3qs2aaaaaaaamfb7e2xhn5oy33.live-cf.cdn.hotstar.com/hls/live/2012616/i
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3868/1779982783868-b" group-title="BADMINTON", HINDI
 https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540069435/15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026/master_ap.m3u8?a=ns&hdnea=exp=1780037834~acl=%2fhls%2flive%2f2012616%2finallow-bwf-2025%2feng%2f1540069435%2f15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026%2fmaster_ap%2a~data=ip%3dRxYivkfuCZ5XrUICvXtM5u-userid%3dHuZeh8VsrzOAmvATgDS6RivSdPsj2ESq0xVERFXNexyj-did%3drJAz7jXMOZeJdDK4uvbcqPSPvrRnLvsQtK22NKiX2KvX-cc%3din-de%3d5-pl%3dandroidtv-ap%3d26.05.10.2-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=8f94b07cda6eada0f43244eb63d71cf719f1acd5696c0f71511f538f6cfc0170
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8580/1780034768580-b" group-title="PV SINDHU VS AN SE YOUNG QF", ENGLISH [4K]
+https://abc3qs2aaaaaaaamlwdnltsyludqk.live-cf.cdn.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540069432/15mindvrm01d220c3100f954fd187379669f1a1206a29may2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1780038160~acl=/hls/live/2012616/inallow-bwf-2025/eng/1540069432/15mindvrm01d220c3100f954fd187379669f1a1206a29may2026/master_ap~ttl=1800~type=paid~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=HuZeh8VsrzOAmvATgDS6RivSdPsj2ESq0xVERFXNexyj-did=rJAz7jXMOZeJdDK4uvbcqPSPvrRnLvsQtK22NKiX2KvX-cc=in-de=5-pl=androidtv-ap=26.05.10.2-ut=paid-~hmac=16c915e922adefd045b2cb7e640a52d6d25390d69286e97d6721b212b2aa6654&Expires=1780038160&Signature=ivFmR4Yzk9ZNcJmHc73LNgIhsbHp1mSaTKbrFLbsRI7Bb16o050F8a6ok~ZBtcuIkrRbv~VqGkP-M~sHfK2ljPPeXHfUb~9k75BMltuNXEe5CVcNRqiEa4KSAdFjs3bmRKal0LCQi2yPkZPkvPK~hw3SS0tvdNzONSGwha1rb~JT0WQcwIbz5DWqnWxzN2bP7~4VXbVd2bv2JNsDaNKeVT9LpWc21Ef7Sr40iAaYLZhlGE6SUt8QoQGicLs5m09bNWqgxuBoQ4feVO-nl68V48r717bKRCAioYbmNFfT9w5TqPG~8qXFSXyh~3d~QxXpQIRRavyblC5eS3s92qg5Bg__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
