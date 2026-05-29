@@ -1,5 +1,6 @@
 #EXTM3U
-# JHS Channels — auto-updated 2026-05-29 12:16:49
+# Title: BADMINTON
+# Updated: 2026-05-29 12:19:12
 
 #EXTINF:-1 tvg-name="TATA IPL TV" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8763/1739203338763-a.jpg" group-title="JHS CHANNELS", TATA IPL TV
 https://jcevents.hotstar.com/bpk-tv/e03bbf7688f4b14faa3782e78851c3d9_CTV/Fallback/index2.m3u8?|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1780123610~acl=%2f*~id=d3dc940cffdcf2e01d7afa9ab81b18d9~data=hdntl~hmac=464b3e2726d079d5639e306935a19cb29a4c5b5cc187c3b0308d4fff47300863
@@ -30,3 +31,9 @@ https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d
 
 #EXTINF:-1 tvg-name="STAR SPORTS 2 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h.jpg" group-title="JHS CHANNELS", STAR SPORTS 2 SELECT HD
 https://livetv.hotstar.com/mp1/gec-india-1540065794/e2408fbafb9d4a5ab23775b69e5737d7/index.mpd?|User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&Cookie=hdntl=exp=1780123610~acl=%2f*~id=d3dc940cffdcf2e01d7afa9ab81b18d9~data=hdntl~hmac=464b3e2726d079d5639e306935a19cb29a4c5b5cc187c3b0308d4fff47300863&drmScheme=clearkey&drmLicense=2effd2e98f95492cb7418857bf610000:f0e42f1c91fb4b59bf6684cb4478d82e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3868/1779982783868-b" group-title="BADMINTON", ENGLISH
+https://abc3qs2aaaaaaaamfb7e2xhn5oy33.live-cf.cdn.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540069435/15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026/master_ap.m3u8?a=ns&ttl=86400&hdnea=exp=1780037932~acl=/hls/live/2012616/inallow-bwf-2025/eng/1540069435/15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026/master_ap~ttl=1800~type=paid~data=ip=RxYivkfuCZ5XrUICvXtM5u-userid=HuZeh8VsrzOAmvATgDS6RivSdPsj2ESq0xVERFXNexyj-did=rJAz7jXMOZeJdDK4uvbcqPSPvrRnLvsQtK22NKiX2KvX-cc=in-de=5-pl=androidtv-ap=26.05.10.2-ut=paid-~hmac=7ce494e19d8f595fc6f7237a0543e9ce3f080624dd372abffa7f878bc8c9073e&Expires=1780037932&Signature=DTuT7eD--Xyb4nhYGChcFyySOCb1kNo3LkEN560qvv1i8Z8IYM3cx-QLBCkfY0SVjp4yvvKgqU6ZO893k0o56xGyfo0ZijmXG6HktHk14AkU6jucEse-cPU~Y1o1iV0iXnBW3EHVH6wp9JSvnzpPMpHcWTLSf4-HKpdkopPCiWwjkTCpt3sj2XkN3M0bgukqMuBj~uCtEyFQ~s-8F5V6D5azedMZyesLvtgt3OkijaTQn1gZMdhDBbfl81IUJ~EOVfXuDKfOsf0EKD3xJ7IcxjXeq3eXs47ZbntaCKrDdPtXGp7SPfsDgHTs-LZOAiyM44FT3AWwlwGu~akdN8GJjA__&Key-Pair-Id=APKAJC3ILMJXG4AINKJA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3868/1779982783868-b" group-title="BADMINTON", HINDI
+https://live07.hotstar.com/hls/live/2012616/inallow-bwf-2025/eng/1540069435/15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026/master_ap.m3u8?a=ns&hdnea=exp=1780037834~acl=%2fhls%2flive%2f2012616%2finallow-bwf-2025%2feng%2f1540069435%2f15mindvrm027b17b05f0dec4140abb9614fa8dc6c1f29may2026%2fmaster_ap%2a~data=ip%3dRxYivkfuCZ5XrUICvXtM5u-userid%3dHuZeh8VsrzOAmvATgDS6RivSdPsj2ESq0xVERFXNexyj-did%3drJAz7jXMOZeJdDK4uvbcqPSPvrRnLvsQtK22NKiX2KvX-cc%3din-de%3d5-pl%3dandroidtv-ap%3d26.05.10.2-ut%3dpaid-ttl%3d1800-type%3dpaid-~hmac=8f94b07cda6eada0f43244eb63d71cf719f1acd5696c0f71511f538f6cfc0170
